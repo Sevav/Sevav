@@ -15,6 +15,12 @@ ___
 [<img src='https://img.icons8.com/?size=512&id=v551nqGeHhGn&format=png' alt='github' height='65'>](https://github.com/Sevav) [<img src='https://img.icons8.com/?size=512&id=63306&format=png' alt='telegram' height='70'>](https://t.me/Sergeivasiltcov) 
 </div>
 
+___
+### :hammer_and_wrench: Языки программирования и используемые инструменты:
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="70"/> 
+
 <!--
 **Sevav/Sevav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
