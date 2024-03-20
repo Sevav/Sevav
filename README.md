@@ -12,7 +12,7 @@ ___
 
 <div id="badges" align="center">
 
-[<img src='https://img.icons8.com/?size=512&id=v551nqGeHhGn&format=png' alt='github' height='65'>](https://github.com/Sevav) [<img src='https://img.icons8.com/?size=512&id=63306&format=png' alt='telegram' height='70'>](https://t.me/Sergeivasiltcov) 
+[<img src='https://img.icons8.com/?size=512&id=v551nqGeHhGn&format=png' alt='github' height='65'>](https://github.com/Sevav) [<img src='https://img.icons8.com/?size=512&id=63306&format=png' alt='telegram' height='70'>](https://t.me/Sergeivasiltcov) [<img src='https://icons8.com/icon/13930/linkedin'>](https://www.linkedin.com/in/sergei-vasiltcov/)
 </div>
 
 ___
